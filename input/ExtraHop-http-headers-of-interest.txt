@@ -1,0 +1,6 @@
+Content-Length
+Accept
+Content-Location
+
+Connection
+Fake header
